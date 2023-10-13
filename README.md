@@ -33,7 +33,7 @@ Here are some ideas to get you started:
     - [![Bilibili](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E5%BD%93%E6%88%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91-pink?logo=bilibili)](https://space.bilibili.com/401746666)
     - [![discord](https://img.shields.io/badge/Discord%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9Athewhitedog9487-darkblue?logo=discord)](https://discord.com)
     - ![email](https://img.shields.io/badge/rsizxlpsw%40relay.firefox.com-black?logo=maildotru)
-    - [![Minecraft](https://img.shields.io/badge/Minecraft%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9ATheWhiteDog9487-lightgreen?logo=minecraft)](https://www.minecraft.net/zh-hans)
+    - [![Minecraft](https://img.shields.io/badge/Minecraft%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9ATheWhiteDog9487-lightgreen?logo=minecraft)](https://zh-cn.namemc.com/profile/TheWhiteDog9487.1)
 
 ---
 
