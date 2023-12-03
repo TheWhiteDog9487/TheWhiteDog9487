@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 名称：TheWhiteDog9487
 - 居住地：中国大陆
-- 时区：UTC +8 (CST)
+- 时区：UTC +8 中国标准时间(CST)
 - 目前状态：学生
 - 技术栈：
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=cplusplus)
@@ -37,5 +37,10 @@ Here are some ideas to get you started:
 
 ---
 
+有什么问题，或者单纯想找个人吹吹牛聊会天，欢迎来找我。  
+不要害羞，如果我觉得不行，我拒绝就是了。  
+所以不要望而却步，欢迎来找我（*＾-＾*）
+
+---
 我开源的大多数东西，都是因为我自己需要，而没有现成的可用方案。  
 所以我就自己上了。
