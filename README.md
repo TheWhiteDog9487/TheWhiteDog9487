@@ -21,12 +21,34 @@ Here are some ideas to get you started:
 [![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=thewhitedog9487&theme=vue-dark&locale=cn&layout=compact)]()
 
 - 我的主要活动区域：
-    - [![WordPress](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blue?logo=wordpress)](https://www.thewhitedog9487.xyz)
-    - [![Bilibili](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E5%BD%93%E6%88%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91-pink?logo=bilibili)](https://space.bilibili.com/401746666)
+    - [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blue?logo=wordpress)](https://www.thewhitedog9487.xyz)
+    - [![bilibili](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E5%BD%93%E6%88%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91-pink?logo=bilibili)](https://space.bilibili.com/401746666)
     - [![Discord](https://img.shields.io/badge/Discord%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9Athewhitedog9487-darkblue?logo=discord)]([https://discord.com](https://discord.com/users/531317938863603722))
     - ![Discord Public Server](https://img.shields.io/badge/Discord%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9Ahttps%3A%2F%2Fdiscord.gg%2FXJfMCDNKXf%20-%20%23030380?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FXJfMCDNKXf)
-    - [![Minecraft](https://img.shields.io/badge/Minecraft%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9ATheWhiteDog9487-lightgreen?logo=minecraft)](https://zh-cn.namemc.com/profile/TheWhiteDog9487.1)
+    - [Minecraft ID: TheWhiteDog9487](https://zh-cn.namemc.com/profile/TheWhiteDog9487)
+    - [邮件: thewhitedog9487@outlook.com](mailto:TheWhiteDog9487<thewhitedog9487@outlook.com>)
 
+- 主要技术
+    - 主要
+        - C++
+            - Qt
+        - Java
+            - SpringBoot
+            - Minecraft Mod
+                - Fabric
+        - Python
+    - 能用
+        - Kotlin
+        - TypeScript
+        - C#
+        - PowerShell
+    - 正在学 / 希望学
+        - Android
+            - Jetpack Compose
+        - Web前端
+            - Nuxt
+            - Next.js
+            - Tailwind CSS
 ---
 
 有什么问题，或者单纯想找个人吹吹牛聊会天，欢迎来找我。  
