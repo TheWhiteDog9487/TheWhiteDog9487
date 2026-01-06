@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 <h1 style="text-align: center;">各位早呐，这里是TheWhiteDog9487的Github主页</h1>
 
-[![GitHub数据](https://github-readme-stats.vercel.app/api?username=thewhitedog9487&theme=vue-dark&locale=cn&show_icons=true)]()
-[![最常用的语言](https://github-readme-stats.vercel.app/api/top-langs/?username=thewhitedog9487&theme=vue-dark&locale=cn&layout=compact)]()
+[![GitHub数据](./profile/stats.svg)]()
+[![最常用的语言](./profile/top-langs.svg)]()
 
 - 我的主要活动区域：
     - [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blue?logo=wordpress)](https://www.thewhitedog9487.xyz)
