@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 style="text-align: center;">各位早呐，这里是TheWhiteDog9487的Github主页</h1>
+<p align="center" style="font-weight: bold; font-size: large;">各位早呐，这里是TheWhiteDog9487的Github主页</p>
 
-<div>
+<div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
     <picture>
       <source
