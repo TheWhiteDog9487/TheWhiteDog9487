@@ -17,8 +17,28 @@ Here are some ideas to get you started:
 
 <h1 style="text-align: center;">各位早呐，这里是TheWhiteDog9487的Github主页</h1>
 
-[![GitHub数据](./profile/stats.svg)]()
-[![最常用的语言](./profile/top-langs.svg)]()
+<div>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./profile/stats_dark.svg" />
+      <img
+        height="170px"
+        src="./profile/stats_light.svg"
+        alt="GitHub统计数据" />
+    </picture>
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="./profile/top-langs_dark.svg" />
+      <img
+        height="170px"
+        src="./profile/top-langs_light.svg"
+        alt="最常用的语言" />
+    </picture>
+  </div>
+</div>
 
 - 我的主要活动区域：
     - [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blue?logo=wordpress)](https://www.thewhitedog9487.xyz)
