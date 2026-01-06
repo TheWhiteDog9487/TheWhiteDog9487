@@ -11,20 +11,36 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate stats card
+      - name: Generate stats card(light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&theme=buefy&locale=cn&show_icons=true
+          path: profile/stats_light.svg
+          # token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate stats card(dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
           options: username=${{ github.repository_owner }}&theme=vue-dark&locale=cn&show_icons=true
-          path: profile/stats.svg
+          path: profile/stats_dark.svg
           # token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate top languages card(light)
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&theme=buefy&locale=cn&layout=compact
+          path: profile/top-langs_light.svg
+          # token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card(dark)
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&theme=vue-dark&locale=cn&layout=compact
-          path: profile/top-langs.svg
+          path: profile/top-langs_dark.svg
           # token: ${{ secrets.GITHUB_TOKEN }}
 
       # - name: Generate pin card
