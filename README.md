@@ -45,30 +45,37 @@ Here are some ideas to get you started:
     - [![bilibili](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E5%BD%93%E6%88%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91-pink?logo=bilibili)](https://space.bilibili.com/401746666)
     - [![Discord](https://img.shields.io/badge/Discord%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9Athewhitedog9487-darkblue?logo=discord)]([https://discord.com](https://discord.com/users/531317938863603722))
     - ![Discord Public Server](https://img.shields.io/badge/Discord%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BC%9Ahttps%3A%2F%2Fdiscord.gg%2FXJfMCDNKXf%20-%20%23030380?logo=discord&link=https%3A%2F%2Fdiscord.gg%2FXJfMCDNKXf)
-    - [Minecraft ID: TheWhiteDog9487](https://zh-cn.namemc.com/profile/TheWhiteDog9487)
-    - [邮件: thewhitedog9487@outlook.com](mailto:TheWhiteDog9487<thewhitedog9487@outlook.com>)
+    - [![Minecraft ID: TheWhiteDog9487](https://img.shields.io/badge/Minecraft%20ID%20-%20TheWhiteDog9487%20-%20%23dc925d)](https://zh-cn.namemc.com/profile/TheWhiteDog9487)
+    - [![邮件: thewhitedog9487@outlook.com](https://img.shields.io/badge/%E9%82%AE%E4%BB%B6%20-%20thewhitedog9487%40outlook.com%20-%20%2339d0fe)](mailto:TheWhiteDog9487<thewhitedog9487@outlook.com>)
 
-- 主要技术
-    - 主要
-        - C++
-            - Qt
-        - Java
-            - SpringBoot
-            - Minecraft Mod
-                - Fabric
-        - Python
-    - 能用
-        - Kotlin
-        - TypeScript
-        - C#
-        - PowerShell
-    - 正在学 / 希望学
-        - Android
-            - Jetpack Compose
-        - Web前端
-            - Nuxt
-            - Next.js
-            - Tailwind CSS
+---
+
+- 常用技术
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?logo=cplusplus">
+  <img alt="Qt" src="https://img.shields.io/badge/Qt%20-%20%2341CD52?logo=qt">
+  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?logo=springboot">
+  <img alt="Minecraft Mod(Fabric)" src="https://img.shields.io/badge/Minecraft%20Mod%20-%20Fabric%20-%20%23dbd0b4">
+  <img alt="Python" src="https://img.shields.io/badge/Python%20-%20%233776AB?logo=python">
+</div>
+
+- 能用
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%20%237F52FF?logo=kotlin">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%20%233178C6?logo=typescript">
+  <img alt="C#" src="https://img.shields.io/badge/C%23%20-%20%23512BD4?logo=dotnet">
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell%20-%20%23162231">
+</div>
+
+- 正在学 / 希望学
+<div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
+  <img alt="Android" src="https://img.shields.io/badge/Android%20-%20%233DDC84?logo=android">
+  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose%20-%20%234285F4?logo=jetpackcompose">
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt%20-%20%2300DC82?logo=nuxt">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%20%23000000?logo=nextdotjs">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS%20-%20%2306B6D4?logo=tailwindcss">
+</div>
+
 ---
 
 有什么问题，或者单纯想找个人吹吹牛聊会天，欢迎来找我。  
