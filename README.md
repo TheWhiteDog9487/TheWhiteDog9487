@@ -22,19 +22,19 @@ Here are some ideas to get you started:
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="./profile/stats_dark.svg" />
+        srcset="https://github-readme-stats.thewhitedog9487.xyz/api?username=TheWhiteDog9487&theme=vue-dark&locale=cn&show_icons=true" />
       <img
         height="170px"
-        src="./profile/stats_light.svg"
+        src="https://github-readme-stats.thewhitedog9487.xyz/api?username=TheWhiteDog9487&theme=buefy&locale=cn&show_icons=true"
         alt="GitHub统计数据" />
     </picture>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="./profile/top-langs_dark.svg" />
+        srcset="https://github-readme-stats.thewhitedog9487.xyz/api/top-langs?username=TheWhiteDog9487&theme=vue-dark&locale=cn&layout=compact" />
       <img
         height="170px"
-        src="./profile/top-langs_light.svg"
+        src="https://github-readme-stats.thewhitedog9487.xyz/api/top-langs?username=TheWhiteDog9487&theme=buefy&locale=cn&layout=compact"
         alt="最常用的语言" />
     </picture>
   </div>
