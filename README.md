@@ -58,7 +58,7 @@ Here are some ideas to get you started:
   <img width="64" alt="Minecraft Mod(Fabric)" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fabricmc.png">
   <img width="64" alt="Python" src="https://cdn.svglogos.dev/logos/python.svg">
   <img width="64" alt="Kotlin" src="https://cdn.svglogos.dev/logos/kotlin-icon.svg">
-  <img width="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
+  <img width="64" alt="Java" src="https://cdn.svglogos.dev/logos/java.svg">
 </div>
 
 - 能用
@@ -66,6 +66,9 @@ Here are some ideas to get you started:
   <img width="64" alt="TypeScript" src="https://cdn.svglogos.dev/logos/typescript-icon.svg">
   <img width="64" alt="C#" src="https://hexmos.com/freedevtools/svg_icons/csharp/csharp-original.svg">
   <img width="64" alt="PowerShell" src="https://hexmos.com/freedevtools/svg_icons/powershell/powershell-original.svg">
+  <img width="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
+  <img width="64" alt="Gradle" src="https://cdn.svglogos.dev/logos/gradle.svg">
+  <img width="64"alt="XMake" src="https://www.svgrepo.com/show/374196/xmake.svg">
 </div>
 
 - 正在学 / 希望学
