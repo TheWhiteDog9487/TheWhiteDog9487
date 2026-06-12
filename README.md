@@ -52,28 +52,34 @@ Here are some ideas to get you started:
 
 - 常用技术
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B%20-%20%2300599C?logo=cplusplus">
-  <img alt="Qt" src="https://img.shields.io/badge/Qt%20-%20%2341CD52?logo=qt">
-  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot%20-%20%236DB33F?logo=springboot">
-  <img alt="Minecraft Mod(Fabric)" src="https://img.shields.io/badge/Minecraft%20Mod%20-%20Fabric%20-%20%23dbd0b4">
-  <img alt="Python" src="https://img.shields.io/badge/Python%20-%20%233776AB?logo=python">
+  <img width="64" alt="C++" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
+  <img width="64" alt="Qt" src="https://cdn.svglogos.dev/logos/qt.svg">
+  <img width="64" alt="SpringBoot" src="https://cdn.svglogos.dev/logos/spring-icon.svg">
+  <img width="64" alt="Minecraft Mod(Fabric)" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fabricmc.png">
+  <img width="64" alt="Python" src="https://cdn.svglogos.dev/logos/python.svg">
+  <img width="64" alt="Kotlin" src="https://cdn.svglogos.dev/logos/kotlin-icon.svg">
+  <img width="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
 </div>
 
 - 能用
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin%20-%20%237F52FF?logo=kotlin">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20-%20%233178C6?logo=typescript">
-  <img alt="C#" src="https://img.shields.io/badge/C%23%20-%20%23512BD4?logo=dotnet">
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell%20-%20%23162231">
+  <img width="64" alt="TypeScript" src="https://cdn.svglogos.dev/logos/typescript-icon.svg">
+  <img width="64" alt="C#" src="https://hexmos.com/freedevtools/svg_icons/csharp/csharp-original.svg">
+  <img width="64" alt="PowerShell" src="https://hexmos.com/freedevtools/svg_icons/powershell/powershell-original.svg">
 </div>
 
 - 正在学 / 希望学
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img alt="Android" src="https://img.shields.io/badge/Android%20-%20%233DDC84?logo=android">
-  <img alt="Jetpack Compose" src="https://img.shields.io/badge/Jetpack%20Compose%20-%20%234285F4?logo=jetpackcompose">
-  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt%20-%20%2300DC82?logo=nuxt">
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js%20-%20%23000000?logo=nextdotjs">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/TailwindCSS%20-%20%2306B6D4?logo=tailwindcss">
+  <img width="64" alt="Android" src="https://cdn.svglogos.dev/logos/android-icon.svg">
+  <img width="64" alt="Jetpack Compose" src="https://hexmos.com/freedevtools/svg_icons/jetpackcompose/jetpackcompose-original.svg">
+  <img width="64" alt="Nuxt" src="https://cdn.svglogos.dev/logos/nuxt-icon.svg">
+  <img width="64" alt="Next.js" src="https://cdn.svglogos.dev/logos/nextjs-icon.svg">
+  <img width="64"alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg">
+  <img width="64"alt="Dart" src="https://cdn.svglogos.dev/logos/dart.svg">
+  <img width="64"alt="Flutter" src="https://cdn.svglogos.dev/logos/flutter.svg">
+  <img width="64"alt="PostgreSQL" src="https://cdn.svglogos.dev/logos/postgresql.svg">
+  <img width="64"alt="NeoForge" src="https://raw.githubusercontent.com/neoforged/.github/refs/heads/main/art/neoforged.ico">
+  <img width="64"alt="ASP.NET" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg">
 </div>
 
 ---
