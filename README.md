@@ -52,37 +52,38 @@ Here are some ideas to get you started:
 
 - 常用技术
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img width="64" alt="C++" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
-  <img width="64" alt="Qt" src="https://cdn.svglogos.dev/logos/qt.svg">
-  <img width="64" alt="SpringBoot" src="https://cdn.svglogos.dev/logos/spring-icon.svg">
-  <img width="64" alt="Minecraft Mod(Fabric)" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fabricmc.png">
-  <img width="64" alt="Python" src="https://cdn.svglogos.dev/logos/python.svg">
-  <img width="64" alt="Kotlin" src="https://cdn.svglogos.dev/logos/kotlin-icon.svg">
-  <img width="64" alt="Java" src="https://cdn.svglogos.dev/logos/java.svg">
+  <img height="64" alt="C++" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
+  <img height="64" alt="Qt" src="https://cdn.svglogos.dev/logos/qt.svg">
+  <img height="64" alt="SpringBoot" src="https://cdn.svglogos.dev/logos/spring-icon.svg">
+  <img height="64" alt="Minecraft Mod(Fabric)" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/fabricmc.png">
+  <img height="64" alt="Python" src="https://cdn.svglogos.dev/logos/python.svg">
+  <img height="64" alt="Kotlin" src="https://cdn.svglogos.dev/logos/kotlin-icon.svg">
+  <img height="64" alt="Java" src="https://cdn.svglogos.dev/logos/java.svg">
 </div>
 
 - 能用
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img width="64" alt="TypeScript" src="https://cdn.svglogos.dev/logos/typescript-icon.svg">
-  <img width="64" alt="C#" src="https://hexmos.com/freedevtools/svg_icons/csharp/csharp-original.svg">
-  <img width="64" alt="PowerShell" src="https://hexmos.com/freedevtools/svg_icons/powershell/powershell-original.svg">
-  <img width="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
-  <img width="64" alt="Gradle" src="https://cdn.svglogos.dev/logos/gradle.svg">
-  <img width="64"alt="XMake" src="https://www.svgrepo.com/show/374196/xmake.svg">
+  <img height="64" alt="TypeScript" src="https://cdn.svglogos.dev/logos/typescript-icon.svg">
+  <img height="64" alt="C#" src="https://hexmos.com/freedevtools/svg_icons/csharp/csharp-original.svg">
+  <img height="64" alt="PowerShell" src="https://hexmos.com/freedevtools/svg_icons/powershell/powershell-original.svg">
+  <img height="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
+  <img height="64" alt="Gradle" src="https://cdn.svglogos.dev/logos/gradle.svg">
+  <img height="64"alt="XMake" src="https://www.svgrepo.com/show/374196/xmake.svg">
 </div>
 
 - 正在学 / 希望学
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img width="64" alt="Android" src="https://cdn.svglogos.dev/logos/android-icon.svg">
-  <img width="64" alt="Jetpack Compose" src="https://hexmos.com/freedevtools/svg_icons/jetpackcompose/jetpackcompose-original.svg">
-  <img width="64" alt="Nuxt" src="https://cdn.svglogos.dev/logos/nuxt-icon.svg">
-  <img width="64" alt="Next.js" src="https://cdn.svglogos.dev/logos/nextjs-icon.svg">
-  <img width="64"alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg">
-  <img width="64"alt="Dart" src="https://cdn.svglogos.dev/logos/dart.svg">
-  <img width="64"alt="Flutter" src="https://cdn.svglogos.dev/logos/flutter.svg">
-  <img width="64"alt="PostgreSQL" src="https://cdn.svglogos.dev/logos/postgresql.svg">
-  <img width="64"alt="NeoForge" src="https://raw.githubusercontent.com/neoforged/.github/refs/heads/main/art/neoforged.ico">
-  <img width="64"alt="ASP.NET" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg">
+  <img height="64" alt="Android" src="https://cdn.svglogos.dev/logos/android-icon.svg">
+  <img height="64" alt="Jetpack Compose" src="https://hexmos.com/freedevtools/svg_icons/jetpackcompose/jetpackcompose-original.svg">
+  <img height="64" alt="Nuxt" src="https://cdn.svglogos.dev/logos/nuxt-icon.svg">
+  <img height="64" alt="Next.js" src="https://cdn.svglogos.dev/logos/nextjs-icon.svg">
+  <img height="64"alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg">
+  <img height="64"alt="Dart" src="https://cdn.svglogos.dev/logos/dart.svg">
+  <img height="64"alt="Flutter" src="https://cdn.svglogos.dev/logos/flutter.svg">
+  <img height="64"alt="PostgreSQL" src="https://cdn.svglogos.dev/logos/postgresql.svg">
+  <img height="64"alt="Minecraft Mod(NeoForge)" src="https://raw.githubusercontent.com/neoforged/.github/refs/heads/main/art/neoforged.ico">
+  <img height="64"alt="ASP.NET" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg">
+  <img height="64"alt="Avalonia" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-icon.svg">
 </div>
 
 ---
