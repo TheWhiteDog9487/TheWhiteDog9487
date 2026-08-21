@@ -22,25 +22,25 @@ Here are some ideas to get you started:
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.thewhitedog9487.xyz/api?username=TheWhiteDog9487&theme=vue-dark&locale=cn&show_icons=true" />
+        srcset="https://github-stats-extended.vercel.app/api?username=TheWhiteDog9487&theme=vue-dark&locale=cn&show_icons=true" />
       <img
         height="170px"
-        src="https://github-readme-stats.thewhitedog9487.xyz/api?username=TheWhiteDog9487&theme=buefy&locale=cn&show_icons=true"
+        src="https://github-stats-extended.vercel.app/api?username=TheWhiteDog9487&theme=buefy&locale=cn&show_icons=true"
         alt="GitHub统计数据" />
     </picture>
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-stats.thewhitedog9487.xyz/api/top-langs?username=TheWhiteDog9487&theme=vue-dark&locale=cn&layout=compact" />
+        srcset="https://github-stats-extended.vercel.app/api/top-langs?username=TheWhiteDog9487&theme=vue-dark&locale=cn&layout=compact" />
       <img
         height="170px"
-        src="https://github-readme-stats.thewhitedog9487.xyz/api/top-langs?username=TheWhiteDog9487&theme=buefy&locale=cn&layout=compact"
+        src="https://github-stats-extended.vercel.app/api/top-langs?username=TheWhiteDog9487&theme=buefy&locale=cn&layout=compact"
         alt="最常用的语言" />
     </picture>
   </div>
 </div>
 
-- 我的主要活动区域：
+- 主要活动区域：
     - [![Blog](https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-blue?logo=wordpress)](https://www.thewhitedog9487.xyz)
     - [![bilibili](https://img.shields.io/badge/%E5%8A%A8%E6%80%81%E5%BD%93%E6%88%90%E6%9C%8B%E5%8F%8B%E5%9C%88%E5%8F%91-pink?logo=bilibili)](https://space.bilibili.com/401746666)
     - [![Discord](https://img.shields.io/badge/Discord%E7%94%A8%E6%88%B7%E5%90%8D%EF%BC%9Athewhitedog9487-darkblue?logo=discord)]([https://discord.com](https://discord.com/users/531317938863603722))
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 ---
 
-- 常用技术
+- 常用
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
   <img height="64" alt="C++" src="https://cdn.svglogos.dev/logos/c-plusplus.svg">
   <img height="64" alt="Qt" src="https://cdn.svglogos.dev/logos/qt.svg">
@@ -59,12 +59,12 @@ Here are some ideas to get you started:
   <img height="64" alt="Python" src="https://cdn.svglogos.dev/logos/python.svg">
   <img height="64" alt="Kotlin" src="https://cdn.svglogos.dev/logos/kotlin-icon.svg">
   <img height="64" alt="Java" src="https://cdn.svglogos.dev/logos/java.svg">
+  <img height="64" alt="TypeScript" src="https://cdn.svglogos.dev/logos/typescript-icon.svg">
+  <img height="64" alt="C#" src="https://hexmos.com/freedevtools/svg_icons/csharp/csharp-original.svg">
 </div>
 
 - 能用
 <div style="display: flex; flex-wrap: wrap; justify-content: start; gap: 10px;margin: 20px 0;">
-  <img height="64" alt="TypeScript" src="https://cdn.svglogos.dev/logos/typescript-icon.svg">
-  <img height="64" alt="C#" src="https://hexmos.com/freedevtools/svg_icons/csharp/csharp-original.svg">
   <img height="64" alt="PowerShell" src="https://hexmos.com/freedevtools/svg_icons/powershell/powershell-original.svg">
   <img height="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
   <img height="64" alt="Gradle" src="https://cdn.svglogos.dev/logos/gradle.svg">
@@ -84,6 +84,7 @@ Here are some ideas to get you started:
   <img height="64"alt="Minecraft Mod(NeoForge)" src="https://raw.githubusercontent.com/neoforged/.github/refs/heads/main/art/neoforged.ico">
   <img height="64"alt="ASP.NET" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg">
   <img height="64"alt="Avalonia" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-icon.svg">
+  <img height="64"alt="Astro" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
 </div>
 
 ---
