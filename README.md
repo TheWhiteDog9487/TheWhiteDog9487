@@ -79,7 +79,7 @@ Here are some ideas to get you started:
   <img height="64" alt="Next.js" src="https://cdn.svglogos.dev/logos/nextjs-icon.svg">
   <img height="64"alt="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/tailwind.svg">
   <img height="64"alt="Dart" src="https://cdn.svglogos.dev/logos/dart.svg">
-  <img height="64"alt="Flutter" src="https://cdn.svglogos.dev/logos/flutter.svg">
+  <img height="64"alt="Flutter" src="https://cdn.svglogos.dev/logos/flutter-icon.svg">
   <img height="64"alt="PostgreSQL" src="https://cdn.svglogos.dev/logos/postgresql.svg">
   <img height="64"alt="Minecraft Mod(NeoForge)" src="https://raw.githubusercontent.com/neoforged/.github/refs/heads/main/art/neoforged.ico">
   <img height="64"alt="ASP.NET" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg">
