@@ -68,7 +68,7 @@ Here are some ideas to get you started:
   <img height="64" alt="PowerShell" src="https://hexmos.com/freedevtools/svg_icons/powershell/powershell-original.svg">
   <img height="64"alt="fish shell" src="https://github.com/fish-shell/fish-shell/blob/master/doc_src/python_docs_theme/static/fish.png?raw=true">
   <img height="64" alt="Gradle" src="https://cdn.svglogos.dev/logos/gradle.svg">
-  <img height="64"alt="XMake" src="https://www.svgrepo.com/show/374196/xmake.svg">
+  <img height="64"alt="XMake" src="https://camo.githubusercontent.com/007538e1baa3655dcc4e77280a6d279f76d5ae8558494e2a39d5b4e9c132db2d/68747470733a2f2f786d616b652e696f2f6173736574732f696d672f6c6f676f2e706e67">
 </div>
 
 - 正在学 / 希望学
@@ -85,6 +85,10 @@ Here are some ideas to get you started:
   <img height="64"alt="ASP.NET" src="https://cdn.jsdelivr.net/gh/selfhst/icons/svg/asp-net-core.svg">
   <img height="64"alt="Avalonia" src="https://www.vectorlogo.zone/logos/avaloniauinet/avaloniauinet-icon.svg">
   <img height="64"alt="Astro" src="https://astro.build/assets/press/astro-icon-light-gradient.svg">
+  <img height="64"alt="Compose Multiplatform" src="https://kotlinlang.org/images/compose-multiplatform/hero/compose-multiplatform-logo.svg">
+  <img height="64"alt="Xposed" src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Xposed_Framework_Icon.svg">
+  <img height="64"alt="Kotlin Multiplatform" src="https://developer.android.com/images/picto-icons/kmp.svg">
+  
 </div>
 
 ---
